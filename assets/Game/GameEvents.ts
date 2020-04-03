@@ -1,0 +1,5 @@
+export const GameEvents = {
+    PLAYER_FIRE: 'PLAYER_FIRE',
+    ENEMY_DESTROYED: 'ENEMY_DESTROYED',
+    RESTART_GAME: 'RESTART_GAME',
+}
